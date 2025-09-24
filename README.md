@@ -28,7 +28,8 @@ This design guarantees that the first story a user sees is already safe and high
   - Prompts user for feedback until acceptance or revision cap
 
 ## 🧩 Architecture Diagram
-![Architecture Diagram](AI Agent Deployment Engineer Takehome/block_diagram.jpg)
+![Architecture Diagram](./AI%20Agent%20Deployment%20Engineer%20Takehome/block_diagram.jpg)
+
 
 ## ✅ Features Implemented
 - Story arcs enforced (setup → challenge → resolution)
