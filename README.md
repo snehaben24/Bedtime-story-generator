@@ -28,7 +28,7 @@ This design guarantees that the first story a user sees is already safe and high
   - Prompts user for feedback until acceptance or revision cap
 
 ## 🧩 Architecture Diagram
-![Architecture Diagram](block_diagram.jpg)
+![Architecture Diagram](AI Agent Deployment Engineer Takehome/block_diagram.jpg)
 
 ## ✅ Features Implemented
 - Story arcs enforced (setup → challenge → resolution)
@@ -43,15 +43,15 @@ This design guarantees that the first story a user sees is already safe and high
 ### Install dependencies:
 ```bash
 pip install openai
-
+```
 ### Set up your API key:
 ```bash
 export OPENAI_API_KEY="your_api_key_here"
-
+```
 ### Run the story generator:
 ```bash
 python trial.py -p "A story about a shy turtle who learns to sing"
-
+```
 ## 💬 User Feedback Process
 
 After the internal quality check completes, the system will prompt you for feedback:
