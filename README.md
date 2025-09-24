@@ -52,11 +52,11 @@ export OPENAI_API_KEY="your_api_key_here"
 ### Run the story generator:
 #### Run the script without a prompt (you’ll be asked for input):
 ```bash
-python trial.py
+python main.py
 ```
 #### Pass a prompt directly in the command line:
 ```bash
-python trial.py -p "A story about a shy turtle who learns to sing"
+python main.py -p "A story about a shy turtle who learns to sing"
 ```
 ## 💬 User Feedback Process
 
